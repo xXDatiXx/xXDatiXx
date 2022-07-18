@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xXDatiXx
-- 👀 I’m interested in games and cybersecurity
-- 🌱 I’m currently learning data inteligence and cybersecurity
-- 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me: diegoqueonda43@gmail.com
+- 👀 I’m interested in games, cybersecurity, blockchain and cryptocurrencies 
+- 🌱 I’m currently studying Engineer in data intelligence and cybersecurity
+- 💞️ I’m looking to collaborate on cybersecurity, blockchain and cryptocurrencies 
+- 📫 How to reach me: https://www.linkedin.com/in/diego-arenas-8044bb245/ 
