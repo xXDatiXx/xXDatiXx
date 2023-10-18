@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @xXDatiXx
-- 👀 I’m interested in games, cybersecurity, blockchain and IA 
+- 👀 I’m interested in games, cybersecurity and IA 
 - 🌱 I’m currently studying Engineer in data intelligence and cybersecurity
 - 💞️ I’m looking to collaborate on cybersecurity, blockchain and cryptocurrencies 
-- 📫 How to reach me: https://www.linkedin.com/in/diego-arenas-8044bb245/ 
